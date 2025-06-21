@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="View\Adminpanel-ksiazki.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Adminpanel-uzytkownicy.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Adminpanelogloszenia.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\BookForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\ExemplarsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="View\Logowanie.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Paneluzytkownika.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="View\Rejestracja.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
